@@ -30,7 +30,6 @@ public class Apagando {
                         maior = maior.substring(0, maior.length() - 1);                        
                     }
                     maior += Integer.toString(b);
-                    System.out.println("teste " + maior);
                     exc++;
                 }
                 else{
